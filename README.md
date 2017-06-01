@@ -11,10 +11,4 @@ Functionality:
   
   2.  Restart the Bridge PC (sends to command to all interfaced applets, so if only one is operating it will still cause a restart.
   
-There are two versions of the bridge:
-
-  SoloBridge.groovy.  Interfaces to the single TP-LinkBridge.js node applet.
-  
-  TP-LinkBridge.groovy.  Interfaces to the TP-LinkBridge.js and the device controller applet TP-LinkServer.js.
-
 Installation.  See TP-Link Bridge Install.txt
